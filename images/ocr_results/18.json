@@ -1,0 +1,882 @@
+[
+  {
+    "text": "es",
+    "confidence": 45,
+    "bbox": {
+      "x": 521,
+      "y": 100,
+      "width": 19,
+      "height": 10
+    }
+  },
+  {
+    "text": "We",
+    "confidence": 94,
+    "bbox": {
+      "x": 0,
+      "y": 0,
+      "width": 162,
+      "height": 109
+    }
+  },
+  {
+    "text": "he",
+    "confidence": 87,
+    "bbox": {
+      "x": 193,
+      "y": 6,
+      "width": 90,
+      "height": 119
+    }
+  },
+  {
+    "text": "Meople",
+    "confidence": 4,
+    "bbox": {
+      "x": 283,
+      "y": 6,
+      "width": 300,
+      "height": 135
+    }
+  },
+  {
+    "text": "oS",
+    "confidence": 10,
+    "bbox": {
+      "x": 879,
+      "y": 0,
+      "width": 94,
+      "height": 5
+    }
+  },
+  {
+    "text": "Of",
+    "confidence": 94,
+    "bbox": {
+      "x": 37,
+      "y": 140,
+      "width": 29,
+      "height": 34
+    }
+  },
+  {
+    "text": "the",
+    "confidence": 94,
+    "bbox": {
+      "x": 77,
+      "y": 138,
+      "width": 29,
+      "height": 27
+    }
+  },
+  {
+    "text": "United",
+    "confidence": 95,
+    "bbox": {
+      "x": 114,
+      "y": 138,
+      "width": 81,
+      "height": 27
+    }
+  },
+  {
+    "text": "States,",
+    "confidence": 96,
+    "bbox": {
+      "x": 195,
+      "y": 140,
+      "width": 67,
+      "height": 30
+    }
+  },
+  {
+    "text": "in",
+    "confidence": 85,
+    "bbox": {
+      "x": 18,
+      "y": 175,
+      "width": 15,
+      "height": 16
+    }
+  },
+  {
+    "text": "Order",
+    "confidence": 95,
+    "bbox": {
+      "x": 36,
+      "y": 173,
+      "width": 43,
+      "height": 18
+    }
+  },
+  {
+    "text": "to",
+    "confidence": 78,
+    "bbox": {
+      "x": 82,
+      "y": 178,
+      "width": 14,
+      "height": 12
+    }
+  },
+  {
+    "text": "form",
+    "confidence": 78,
+    "bbox": {
+      "x": 99,
+      "y": 173,
+      "width": 35,
+      "height": 21
+    }
+  },
+  {
+    "text": "#",
+    "confidence": 57,
+    "bbox": {
+      "x": 138,
+      "y": 180,
+      "width": 10,
+      "height": 10
+    }
+  },
+  {
+    "text": "more",
+    "confidence": 95,
+    "bbox": {
+      "x": 151,
+      "y": 180,
+      "width": 37,
+      "height": 10
+    }
+  },
+  {
+    "text": "perfect",
+    "confidence": 95,
+    "bbox": {
+      "x": 188,
+      "y": 174,
+      "width": 35,
+      "height": 22
+    }
+  },
+  {
+    "text": "Union,",
+    "confidence": 96,
+    "bbox": {
+      "x": 247,
+      "y": 174,
+      "width": 47,
+      "height": 19
+    }
+  },
+  {
+    "text": "establish",
+    "confidence": 14,
+    "bbox": {
+      "x": 19,
+      "y": 197,
+      "width": 61,
+      "height": 17
+    }
+  },
+  {
+    "text": "Justice,",
+    "confidence": 72,
+    "bbox": {
+      "x": 81,
+      "y": 198,
+      "width": 52,
+      "height": 21
+    }
+  },
+  {
+    "text": "insure",
+    "confidence": 91,
+    "bbox": {
+      "x": 140,
+      "y": 198,
+      "width": 44,
+      "height": 16
+    }
+  },
+  {
+    "text": "domestic",
+    "confidence": 96,
+    "bbox": {
+      "x": 188,
+      "y": 196,
+      "width": 61,
+      "height": 18
+    }
+  },
+  {
+    "text": "Tranquility,",
+    "confidence": 81,
+    "bbox": {
+      "x": 258,
+      "y": 196,
+      "width": 81,
+      "height": 23
+    }
+  },
+  {
+    "text": "promote",
+    "confidence": 84,
+    "bbox": {
+      "x": 15,
+      "y": 242,
+      "width": 63,
+      "height": 26
+    }
+  },
+  {
+    "text": "the",
+    "confidence": 96,
+    "bbox": {
+      "x": 82,
+      "y": 244,
+      "width": 23,
+      "height": 18
+    }
+  },
+  {
+    "text": "the",
+    "confidence": 84,
+    "bbox": {
+      "x": 19,
+      "y": 268,
+      "width": 23,
+      "height": 17
+    }
+  },
+  {
+    "text": "Blessings",
+    "confidence": 94,
+    "bbox": {
+      "x": 46,
+      "y": 268,
+      "width": 41,
+      "height": 17
+    }
+  },
+  {
+    "text": "of",
+    "confidence": 94,
+    "bbox": {
+      "x": 115,
+      "y": 259,
+      "width": 14,
+      "height": 30
+    }
+  },
+  {
+    "text": "Lib",
+    "confidence": 94,
+    "bbox": {
+      "x": 135,
+      "y": 268,
+      "width": 20,
+      "height": 17
+    }
+  },
+  {
+    "text": "“Nationality",
+    "confidence": 62,
+    "bbox": {
+      "x": 326,
+      "y": 888,
+      "width": 74,
+      "height": 20
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 91,
+    "bbox": {
+      "x": 404,
+      "y": 892,
+      "width": 5,
+      "height": 13
+    }
+  },
+  {
+    "text": "Nationalité",
+    "confidence": 91,
+    "bbox": {
+      "x": 414,
+      "y": 892,
+      "width": 78,
+      "height": 16
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 89,
+    "bbox": {
+      "x": 488,
+      "y": 884,
+      "width": 6,
+      "height": 29
+    }
+  },
+  {
+    "text": "Nacionalidad",
+    "confidence": 89,
+    "bbox": {
+      "x": 496,
+      "y": 891,
+      "width": 83,
+      "height": 17
+    }
+  },
+  {
+    "text": "Date",
+    "confidence": 96,
+    "bbox": {
+      "x": 331,
+      "y": 942,
+      "width": 28,
+      "height": 14
+    }
+  },
+  {
+    "text": "of",
+    "confidence": 96,
+    "bbox": {
+      "x": 363,
+      "y": 943,
+      "width": 13,
+      "height": 13
+    }
+  },
+  {
+    "text": "birth",
+    "confidence": 71,
+    "bbox": {
+      "x": 381,
+      "y": 943,
+      "width": 29,
+      "height": 13
+    }
+  },
+  {
+    "text": "/Date",
+    "confidence": 71,
+    "bbox": {
+      "x": 414,
+      "y": 943,
+      "width": 38,
+      "height": 13
+    }
+  },
+  {
+    "text": "de",
+    "confidence": 92,
+    "bbox": {
+      "x": 457,
+      "y": 938,
+      "width": 15,
+      "height": 23
+    }
+  },
+  {
+    "text": "naissance",
+    "confidence": 90,
+    "bbox": {
+      "x": 477,
+      "y": 936,
+      "width": 63,
+      "height": 23
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 66,
+    "bbox": {
+      "x": 544,
+      "y": 944,
+      "width": 6,
+      "height": 13
+    }
+  },
+  {
+    "text": "Fecha",
+    "confidence": 66,
+    "bbox": {
+      "x": 554,
+      "y": 944,
+      "width": 36,
+      "height": 13
+    }
+  },
+  {
+    "text": "de",
+    "confidence": 93,
+    "bbox": {
+      "x": 595,
+      "y": 944,
+      "width": 15,
+      "height": 13
+    }
+  },
+  {
+    "text": "nacimiento",
+    "confidence": 89,
+    "bbox": {
+      "x": 615,
+      "y": 944,
+      "width": 72,
+      "height": 14
+    }
+  },
+  {
+    "text": "21",
+    "confidence": 95,
+    "bbox": {
+      "x": 331,
+      "y": 968,
+      "width": 19,
+      "height": 18
+    }
+  },
+  {
+    "text": "Sep",
+    "confidence": 95,
+    "bbox": {
+      "x": 362,
+      "y": 968,
+      "width": 40,
+      "height": 23
+    }
+  },
+  {
+    "text": "1993",
+    "confidence": 95,
+    "bbox": {
+      "x": 414,
+      "y": 968,
+      "width": 46,
+      "height": 18
+    }
+  },
+  {
+    "text": "Place",
+    "confidence": 94,
+    "bbox": {
+      "x": 329,
+      "y": 991,
+      "width": 51,
+      "height": 19
+    }
+  },
+  {
+    "text": "of",
+    "confidence": 96,
+    "bbox": {
+      "x": 367,
+      "y": 983,
+      "width": 12,
+      "height": 34
+    }
+  },
+  {
+    "text": "birth",
+    "confidence": 92,
+    "bbox": {
+      "x": 386,
+      "y": 993,
+      "width": 29,
+      "height": 13
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 92,
+    "bbox": {
+      "x": 422,
+      "y": 993,
+      "width": 7,
+      "height": 13
+    }
+  },
+  {
+    "text": "Lieu",
+    "confidence": 95,
+    "bbox": {
+      "x": 437,
+      "y": 993,
+      "width": 26,
+      "height": 14
+    }
+  },
+  {
+    "text": "de",
+    "confidence": 93,
+    "bbox": {
+      "x": 467,
+      "y": 994,
+      "width": 15,
+      "height": 17
+    }
+  },
+  {
+    "text": "naissance",
+    "confidence": 82,
+    "bbox": {
+      "x": 488,
+      "y": 994,
+      "width": 113,
+      "height": 17
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 91,
+    "bbox": {
+      "x": 557,
+      "y": 983,
+      "width": 6,
+      "height": 34
+    }
+  },
+  {
+    "text": "Lugat",
+    "confidence": 90,
+    "bbox": {
+      "x": 565,
+      "y": 994,
+      "width": 35,
+      "height": 17
+    }
+  },
+  {
+    "text": "de",
+    "confidence": 80,
+    "bbox": {
+      "x": 605,
+      "y": 994,
+      "width": 15,
+      "height": 14
+    }
+  },
+  {
+    "text": "nacimiento",
+    "confidence": 65,
+    "bbox": {
+      "x": 625,
+      "y": 995,
+      "width": 73,
+      "height": 13
+    }
+  },
+  {
+    "text": "Sex",
+    "confidence": 56,
+    "bbox": {
+      "x": 766,
+      "y": 995,
+      "width": 88,
+      "height": 13
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 56,
+    "bbox": {
+      "x": 793,
+      "y": 984,
+      "width": 6,
+      "height": 34
+    }
+  },
+  {
+    "text": "Sexe",
+    "confidence": 54,
+    "bbox": {
+      "x": 801,
+      "y": 995,
+      "width": 32,
+      "height": 13
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 54,
+    "bbox": {
+      "x": 835,
+      "y": 984,
+      "width": 10,
+      "height": 34
+    }
+  },
+  {
+    "text": "St",
+    "confidence": 48,
+    "bbox": {
+      "x": 847,
+      "y": 984,
+      "width": 12,
+      "height": 34
+    }
+  },
+  {
+    "text": "ISH",
+    "confidence": 96,
+    "bbox": {
+      "x": 376,
+      "y": 1021,
+      "width": 32,
+      "height": 18
+    }
+  },
+  {
+    "text": "INDIAN",
+    "confidence": 94,
+    "bbox": {
+      "x": 421,
+      "y": 1017,
+      "width": 66,
+      "height": 22
+    }
+  },
+  {
+    "text": "OCEAN",
+    "confidence": 96,
+    "bbox": {
+      "x": 499,
+      "y": 1021,
+      "width": 77,
+      "height": 18
+    }
+  },
+  {
+    "text": "TERRITORY",
+    "confidence": 93,
+    "bbox": {
+      "x": 588,
+      "y": 1021,
+      "width": 113,
+      "height": 18
+    }
+  },
+  {
+    "text": "(CHAGOSFARCHI",
+    "confidence": 79,
+    "bbox": {
+      "x": 713,
+      "y": 1019,
+      "width": 168,
+      "height": 25
+    }
+  },
+  {
+    "text": "|",
+    "confidence": 31,
+    "bbox": {
+      "x": 296,
+      "y": 1107,
+      "width": 2,
+      "height": 2
+    }
+  },
+  {
+    "text": "12",
+    "confidence": 55,
+    "bbox": {
+      "x": 330,
+      "y": 1119,
+      "width": 19,
+      "height": 20
+    }
+  },
+  {
+    "text": "Jan",
+    "confidence": 91,
+    "bbox": {
+      "x": 362,
+      "y": 1119,
+      "width": 36,
+      "height": 19
+    }
+  },
+  {
+    "text": "2028",
+    "confidence": 94,
+    "bbox": {
+      "x": 411,
+      "y": 1108,
+      "width": 63,
+      "height": 34
+    }
+  },
+  {
+    "text": "Endorsements",
+    "confidence": 78,
+    "bbox": {
+      "x": 325,
+      "y": 1143,
+      "width": 103,
+      "height": 17
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 91,
+    "bbox": {
+      "x": 423,
+      "y": 1139,
+      "width": 6,
+      "height": 28
+    }
+  },
+  {
+    "text": "Mentions",
+    "confidence": 93,
+    "bbox": {
+      "x": 431,
+      "y": 1145,
+      "width": 60,
+      "height": 15
+    }
+  },
+  {
+    "text": "Spéciales",
+    "confidence": 92,
+    "bbox": {
+      "x": 496,
+      "y": 1144,
+      "width": 72,
+      "height": 18
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 92,
+    "bbox": {
+      "x": 563,
+      "y": 1139,
+      "width": 6,
+      "height": 28
+    }
+  },
+  {
+    "text": "Anotaciones",
+    "confidence": 84,
+    "bbox": {
+      "x": 571,
+      "y": 1146,
+      "width": 79,
+      "height": 14
+    }
+  },
+  {
+    "text": "\"SEE",
+    "confidence": 32,
+    "bbox": {
+      "x": 330,
+      "y": 1166,
+      "width": 57,
+      "height": 20
+    }
+  },
+  {
+    "text": "PAGE",
+    "confidence": 94,
+    "bbox": {
+      "x": 394,
+      "y": 1167,
+      "width": 60,
+      "height": 19
+    }
+  },
+  {
+    "text": "27",
+    "confidence": 96,
+    "bbox": {
+      "x": 461,
+      "y": 1167,
+      "width": 23,
+      "height": 19
+    }
+  },
+  {
+    "text": "P<USAFLORES<<CYNTHIA<S",
+    "confidence": 33,
+    "bbox": {
+      "x": 25,
+      "y": 1256,
+      "width": 926,
+      "height": 27
+    }
+  },
+  {
+    "text": "<<<",
+    "confidence": 26,
+    "bbox": {
+      "x": 540,
+      "y": 1252,
+      "width": 68,
+      "height": 35
+    }
+  },
+  {
+    "text": "KK",
+    "confidence": 33,
+    "bbox": {
+      "x": 627,
+      "y": 1252,
+      "width": 36,
+      "height": 35
+    }
+  },
+  {
+    "text": "KK",
+    "confidence": 33,
+    "bbox": {
+      "x": 674,
+      "y": 1252,
+      "width": 33,
+      "height": 35
+    }
+  },
+  {
+    "text": "KKK",
+    "confidence": 8,
+    "bbox": {
+      "x": 720,
+      "y": 1252,
+      "width": 89,
+      "height": 35
+    }
+  },
+  {
+    "text": "KKK",
+    "confidence": 20,
+    "bbox": {
+      "x": 855,
+      "y": 1252,
+      "width": 53,
+      "height": 35
+    }
+  },
+  {
+    "text": "KS",
+    "confidence": 20,
+    "bbox": {
+      "x": 916,
+      "y": 1252,
+      "width": 39,
+      "height": 35
+    }
+  },
+  {
+    "text": "9654991301I0USA9596846F7454103115<461525",
+    "confidence": 45,
+    "bbox": {
+      "x": 17,
+      "y": 1301,
+      "width": 946,
+      "height": 19
+    }
+  }
+]

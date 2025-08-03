@@ -1,0 +1,1182 @@
+[
+  {
+    "text": "SIGNATURE",
+    "confidence": 95,
+    "bbox": {
+      "x": 204,
+      "y": 630,
+      "width": 94,
+      "height": 25
+    }
+  },
+  {
+    "text": "(OF",
+    "confidence": 54,
+    "bbox": {
+      "x": 304,
+      "y": 642,
+      "width": 23,
+      "height": 13
+    }
+  },
+  {
+    "text": "BEARERY",
+    "confidence": 66,
+    "bbox": {
+      "x": 333,
+      "y": 641,
+      "width": 73,
+      "height": 13
+    }
+  },
+  {
+    "text": "SIGNATURE",
+    "confidence": 91,
+    "bbox": {
+      "x": 413,
+      "y": 640,
+      "width": 91,
+      "height": 14
+    }
+  },
+  {
+    "text": "Ol",
+    "confidence": 46,
+    "bbox": {
+      "x": 510,
+      "y": 641,
+      "width": 23,
+      "height": 12
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 93,
+    "bbox": {
+      "x": 625,
+      "y": 641,
+      "width": 5,
+      "height": 12
+    }
+  },
+  {
+    "text": "FIRMA",
+    "confidence": 96,
+    "bbox": {
+      "x": 637,
+      "y": 640,
+      "width": 50,
+      "height": 12
+    }
+  },
+  {
+    "text": "DEL",
+    "confidence": 91,
+    "bbox": {
+      "x": 693,
+      "y": 640,
+      "width": 27,
+      "height": 12
+    }
+  },
+  {
+    "text": "TITULAR",
+    "confidence": 73,
+    "bbox": {
+      "x": 728,
+      "y": 640,
+      "width": 66,
+      "height": 12
+    }
+  },
+  {
+    "text": "PASSEROEE",
+    "confidence": 9,
+    "bbox": {
+      "x": 98,
+      "y": 710,
+      "width": 118,
+      "height": 56
+    }
+  },
+  {
+    "text": "_",
+    "confidence": 42,
+    "bbox": {
+      "x": 286,
+      "y": 755,
+      "width": 2,
+      "height": 3
+    }
+  },
+  {
+    "text": "UNITED:",
+    "confidence": 42,
+    "bbox": {
+      "x": 319,
+      "y": 689,
+      "width": 177,
+      "height": 75
+    }
+  },
+  {
+    "text": "OR",
+    "confidence": 37,
+    "bbox": {
+      "x": 690,
+      "y": 688,
+      "width": 53,
+      "height": 78
+    }
+  },
+  {
+    "text": "PASAPORTE",
+    "confidence": 88,
+    "bbox": {
+      "x": 98,
+      "y": 760,
+      "width": 117,
+      "height": 18
+    }
+  },
+  {
+    "text": "Type",
+    "confidence": 71,
+    "bbox": {
+      "x": 357,
+      "y": 757,
+      "width": 31,
+      "height": 17
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 71,
+    "bbox": {
+      "x": 392,
+      "y": 758,
+      "width": 6,
+      "height": 13
+    }
+  },
+  {
+    "text": "Type",
+    "confidence": 65,
+    "bbox": {
+      "x": 402,
+      "y": 753,
+      "width": 29,
+      "height": 26
+    }
+  },
+  {
+    "text": "fe",
+    "confidence": 73,
+    "bbox": {
+      "x": 524,
+      "y": 755,
+      "width": 10,
+      "height": 29
+    }
+  },
+  {
+    "text": "Abode",
+    "confidence": 15,
+    "bbox": {
+      "x": 540,
+      "y": 759,
+      "width": 39,
+      "height": 13
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 48,
+    "bbox": {
+      "x": 584,
+      "y": 760,
+      "width": 4,
+      "height": 12
+    }
+  },
+  {
+    "text": "Passport",
+    "confidence": 2,
+    "bbox": {
+      "x": 657,
+      "y": 755,
+      "width": 61,
+      "height": 31
+    }
+  },
+  {
+    "text": "Ne.",
+    "confidence": 26,
+    "bbox": {
+      "x": 758,
+      "y": 761,
+      "width": 17,
+      "height": 12
+    }
+  },
+  {
+    "text": "et",
+    "confidence": 34,
+    "bbox": {
+      "x": 783,
+      "y": 761,
+      "width": 9,
+      "height": 19
+    }
+  },
+  {
+    "text": "USA”.",
+    "confidence": 27,
+    "bbox": {
+      "x": 559,
+      "y": 776,
+      "width": 140,
+      "height": 28
+    }
+  },
+  {
+    "text": "826232001",
+    "confidence": 64,
+    "bbox": {
+      "x": 731,
+      "y": 778,
+      "width": 140,
+      "height": 27
+    }
+  },
+  {
+    "text": "¢",
+    "confidence": 61,
+    "bbox": {
+      "x": 422,
+      "y": 810,
+      "width": 6,
+      "height": 14
+    }
+  },
+  {
+    "text": "Nop",
+    "confidence": 44,
+    "bbox": {
+      "x": 437,
+      "y": 802,
+      "width": 30,
+      "height": 31
+    }
+  },
+  {
+    "text": "7",
+    "confidence": 49,
+    "bbox": {
+      "x": 476,
+      "y": 810,
+      "width": 4,
+      "height": 13
+    }
+  },
+  {
+    "text": "PARRISH",
+    "confidence": 63,
+    "bbox": {
+      "x": 357,
+      "y": 809,
+      "width": 86,
+      "height": 44
+    }
+  },
+  {
+    "text": "Given",
+    "confidence": 92,
+    "bbox": {
+      "x": 356,
+      "y": 860,
+      "width": 36,
+      "height": 12
+    }
+  },
+  {
+    "text": "Naines/",
+    "confidence": 36,
+    "bbox": {
+      "x": 398,
+      "y": 860,
+      "width": 53,
+      "height": 13
+    }
+  },
+  {
+    "text": "Prénoms",
+    "confidence": 74,
+    "bbox": {
+      "x": 456,
+      "y": 860,
+      "width": 57,
+      "height": 13
+    }
+  },
+  {
+    "text": "/Nontores",
+    "confidence": 6,
+    "bbox": {
+      "x": 518,
+      "y": 860,
+      "width": 68,
+      "height": 14
+    }
+  },
+  {
+    "text": "ASHLEY",
+    "confidence": 95,
+    "bbox": {
+      "x": 357,
+      "y": 887,
+      "width": 82,
+      "height": 18
+    }
+  },
+  {
+    "text": "Nationality",
+    "confidence": 83,
+    "bbox": {
+      "x": 356,
+      "y": 910,
+      "width": 77,
+      "height": 16
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 75,
+    "bbox": {
+      "x": 429,
+      "y": 901,
+      "width": 6,
+      "height": 33
+    }
+  },
+  {
+    "text": "Nationaiité",
+    "confidence": 43,
+    "bbox": {
+      "x": 438,
+      "y": 910,
+      "width": 68,
+      "height": 14
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 90,
+    "bbox": {
+      "x": 514,
+      "y": 911,
+      "width": 2,
+      "height": 12
+    }
+  },
+  {
+    "text": "Navionglidad",
+    "confidence": 28,
+    "bbox": {
+      "x": 520,
+      "y": 911,
+      "width": 83,
+      "height": 13
+    }
+  },
+  {
+    "text": "UNITED",
+    "confidence": 96,
+    "bbox": {
+      "x": 355,
+      "y": 931,
+      "width": 81,
+      "height": 19
+    }
+  },
+  {
+    "text": "STATES",
+    "confidence": 96,
+    "bbox": {
+      "x": 451,
+      "y": 933,
+      "width": 83,
+      "height": 18
+    }
+  },
+  {
+    "text": "OF",
+    "confidence": 90,
+    "bbox": {
+      "x": 548,
+      "y": 933,
+      "width": 28,
+      "height": 18
+    }
+  },
+  {
+    "text": "AMERICA",
+    "confidence": 96,
+    "bbox": {
+      "x": 588,
+      "y": 933,
+      "width": 100,
+      "height": 19
+    }
+  },
+  {
+    "text": "Date",
+    "confidence": 81,
+    "bbox": {
+      "x": 355,
+      "y": 961,
+      "width": 27,
+      "height": 12
+    }
+  },
+  {
+    "text": "of",
+    "confidence": 96,
+    "bbox": {
+      "x": 388,
+      "y": 961,
+      "width": 11,
+      "height": 12
+    }
+  },
+  {
+    "text": "birth",
+    "confidence": 30,
+    "bbox": {
+      "x": 406,
+      "y": 952,
+      "width": 28,
+      "height": 33
+    }
+  },
+  {
+    "text": "/Date",
+    "confidence": 30,
+    "bbox": {
+      "x": 439,
+      "y": 961,
+      "width": 36,
+      "height": 13
+    }
+  },
+  {
+    "text": "de",
+    "confidence": 93,
+    "bbox": {
+      "x": 481,
+      "y": 961,
+      "width": 14,
+      "height": 13
+    }
+  },
+  {
+    "text": "naissance",
+    "confidence": 87,
+    "bbox": {
+      "x": 501,
+      "y": 962,
+      "width": 72,
+      "height": 13
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 87,
+    "bbox": {
+      "x": 568,
+      "y": 952,
+      "width": 6,
+      "height": 33
+    }
+  },
+  {
+    "text": "Fecha",
+    "confidence": 90,
+    "bbox": {
+      "x": 578,
+      "y": 962,
+      "width": 36,
+      "height": 13
+    }
+  },
+  {
+    "text": "de",
+    "confidence": 93,
+    "bbox": {
+      "x": 619,
+      "y": 962,
+      "width": 14,
+      "height": 13
+    }
+  },
+  {
+    "text": "racimientc",
+    "confidence": 46,
+    "bbox": {
+      "x": 639,
+      "y": 962,
+      "width": 72,
+      "height": 14
+    }
+  },
+  {
+    "text": "Ii",
+    "confidence": 50,
+    "bbox": {
+      "x": 355,
+      "y": 986,
+      "width": 11,
+      "height": 18
+    }
+  },
+  {
+    "text": "Jan",
+    "confidence": 93,
+    "bbox": {
+      "x": 379,
+      "y": 986,
+      "width": 35,
+      "height": 18
+    }
+  },
+  {
+    "text": "2001",
+    "confidence": 69,
+    "bbox": {
+      "x": 428,
+      "y": 986,
+      "width": 51,
+      "height": 18
+    }
+  },
+  {
+    "text": "Pidce",
+    "confidence": 40,
+    "bbox": {
+      "x": 354,
+      "y": 1011,
+      "width": 33,
+      "height": 13
+    }
+  },
+  {
+    "text": "of",
+    "confidence": 96,
+    "bbox": {
+      "x": 392,
+      "y": 1011,
+      "width": 12,
+      "height": 13
+    }
+  },
+  {
+    "text": "birth",
+    "confidence": 92,
+    "bbox": {
+      "x": 410,
+      "y": 1011,
+      "width": 29,
+      "height": 13
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 92,
+    "bbox": {
+      "x": 447,
+      "y": 1012,
+      "width": 5,
+      "height": 12
+    }
+  },
+  {
+    "text": "Liew",
+    "confidence": 84,
+    "bbox": {
+      "x": 461,
+      "y": 1012,
+      "width": 26,
+      "height": 12
+    }
+  },
+  {
+    "text": "de",
+    "confidence": 92,
+    "bbox": {
+      "x": 492,
+      "y": 1012,
+      "width": 14,
+      "height": 13
+    }
+  },
+  {
+    "text": "naissanee/",
+    "confidence": 27,
+    "bbox": {
+      "x": 512,
+      "y": 1012,
+      "width": 72,
+      "height": 13
+    }
+  },
+  {
+    "text": "Lugar",
+    "confidence": 59,
+    "bbox": {
+      "x": 589,
+      "y": 1012,
+      "width": 36,
+      "height": 17
+    }
+  },
+  {
+    "text": "de",
+    "confidence": 85,
+    "bbox": {
+      "x": 630,
+      "y": 1013,
+      "width": 14,
+      "height": 12
+    }
+  },
+  {
+    "text": "nacimiento.",
+    "confidence": 5,
+    "bbox": {
+      "x": 650,
+      "y": 1014,
+      "width": 72,
+      "height": 12
+    }
+  },
+  {
+    "text": "‘Sex/",
+    "confidence": 57,
+    "bbox": {
+      "x": 790,
+      "y": 1013,
+      "width": 23,
+      "height": 13
+    }
+  },
+  {
+    "text": "Sexe",
+    "confidence": 60,
+    "bbox": {
+      "x": 818,
+      "y": 1013,
+      "width": 83,
+      "height": 13
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 60,
+    "bbox": {
+      "x": 859,
+      "y": 1009,
+      "width": 8,
+      "height": 26
+    }
+  },
+  {
+    "text": "Sexc",
+    "confidence": 22,
+    "bbox": {
+      "x": 872,
+      "y": 1013,
+      "width": 29,
+      "height": 13
+    }
+  },
+  {
+    "text": "GABON",
+    "confidence": 95,
+    "bbox": {
+      "x": 355,
+      "y": 1039,
+      "width": 77,
+      "height": 19
+    }
+  },
+  {
+    "text": "F",
+    "confidence": 92,
+    "bbox": {
+      "x": 834,
+      "y": 1037,
+      "width": 11,
+      "height": 18
+    }
+  },
+  {
+    "text": "Date",
+    "confidence": 63,
+    "bbox": {
+      "x": 352,
+      "y": 1062,
+      "width": 28,
+      "height": 13
+    }
+  },
+  {
+    "text": "of",
+    "confidence": 90,
+    "bbox": {
+      "x": 385,
+      "y": 1063,
+      "width": 12,
+      "height": 13
+    }
+  },
+  {
+    "text": "isse",
+    "confidence": 15,
+    "bbox": {
+      "x": 403,
+      "y": 1066,
+      "width": 32,
+      "height": 10
+    }
+  },
+  {
+    "text": "7",
+    "confidence": 92,
+    "bbox": {
+      "x": 444,
+      "y": 1063,
+      "width": 5,
+      "height": 13
+    }
+  },
+  {
+    "text": "Date",
+    "confidence": 85,
+    "bbox": {
+      "x": 458,
+      "y": 1063,
+      "width": 28,
+      "height": 13
+    }
+  },
+  {
+    "text": "de",
+    "confidence": 71,
+    "bbox": {
+      "x": 491,
+      "y": 1063,
+      "width": 14,
+      "height": 13
+    }
+  },
+  {
+    "text": "délivranes",
+    "confidence": 71,
+    "bbox": {
+      "x": 510,
+      "y": 1063,
+      "width": 66,
+      "height": 13
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 79,
+    "bbox": {
+      "x": 584,
+      "y": 1064,
+      "width": 6,
+      "height": 13
+    }
+  },
+  {
+    "text": "Fecha",
+    "confidence": 93,
+    "bbox": {
+      "x": 598,
+      "y": 1064,
+      "width": 36,
+      "height": 13
+    }
+  },
+  {
+    "text": "de",
+    "confidence": 92,
+    "bbox": {
+      "x": 639,
+      "y": 1065,
+      "width": 14,
+      "height": 12
+    }
+  },
+  {
+    "text": "expedicion",
+    "confidence": 68,
+    "bbox": {
+      "x": 658,
+      "y": 1065,
+      "width": 70,
+      "height": 15
+    }
+  },
+  {
+    "text": "Authority",
+    "confidence": 73,
+    "bbox": {
+      "x": 771,
+      "y": 1065,
+      "width": 59,
+      "height": 16
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 44,
+    "bbox": {
+      "x": 834,
+      "y": 1065,
+      "width": 5,
+      "height": 12
+    }
+  },
+  {
+    "text": "Autorite",
+    "confidence": 44,
+    "bbox": {
+      "x": 842,
+      "y": 1065,
+      "width": 51,
+      "height": 13
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 76,
+    "bbox": {
+      "x": 897,
+      "y": 1067,
+      "width": 5,
+      "height": 11
+    }
+  },
+  {
+    "text": "Autoridad",
+    "confidence": 70,
+    "bbox": {
+      "x": 906,
+      "y": 1065,
+      "width": 63,
+      "height": 13
+    }
+  },
+  {
+    "text": "03",
+    "confidence": 34,
+    "bbox": {
+      "x": 339,
+      "y": 1088,
+      "width": 44,
+      "height": 18
+    }
+  },
+  {
+    "text": "Mar",
+    "confidence": 95,
+    "bbox": {
+      "x": 396,
+      "y": 1088,
+      "width": 37,
+      "height": 18
+    }
+  },
+  {
+    "text": "201",
+    "confidence": 80,
+    "bbox": {
+      "x": 444,
+      "y": 1088,
+      "width": 55,
+      "height": 18
+    }
+  },
+  {
+    "text": "United",
+    "confidence": 45,
+    "bbox": {
+      "x": 788,
+      "y": 1090,
+      "width": 69,
+      "height": 18
+    }
+  },
+  {
+    "text": "States",
+    "confidence": 45,
+    "bbox": {
+      "x": 862,
+      "y": 1090,
+      "width": 66,
+      "height": 19
+    }
+  },
+  {
+    "text": "expiration",
+    "confidence": 75,
+    "bbox": {
+      "x": 401,
+      "y": 1112,
+      "width": 73,
+      "height": 14
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 66,
+    "bbox": {
+      "x": 473,
+      "y": 1106,
+      "width": 5,
+      "height": 27
+    }
+  },
+  {
+    "text": "Date",
+    "confidence": 66,
+    "bbox": {
+      "x": 479,
+      "y": 1112,
+      "width": 28,
+      "height": 14
+    }
+  },
+  {
+    "text": "a",
+    "confidence": 38,
+    "bbox": {
+      "x": 632,
+      "y": 1102,
+      "width": 25,
+      "height": 25
+    }
+  },
+  {
+    "text": "Gaducidad",
+    "confidence": 25,
+    "bbox": {
+      "x": 662,
+      "y": 1109,
+      "width": 66,
+      "height": 26
+    }
+  },
+  {
+    "text": "Department",
+    "confidence": 96,
+    "bbox": {
+      "x": 750,
+      "y": 1109,
+      "width": 126,
+      "height": 41
+    }
+  },
+  {
+    "text": "of",
+    "confidence": 86,
+    "bbox": {
+      "x": 884,
+      "y": 1122,
+      "width": 19,
+      "height": 19
+    }
+  },
+  {
+    "text": "State",
+    "confidence": 89,
+    "bbox": {
+      "x": 909,
+      "y": 1123,
+      "width": 54,
+      "height": 18
+    }
+  },
+  {
+    "text": "02",
+    "confidence": 61,
+    "bbox": {
+      "x": 354,
+      "y": 1138,
+      "width": 29,
+      "height": 18
+    }
+  },
+  {
+    "text": "Mar",
+    "confidence": 96,
+    "bbox": {
+      "x": 396,
+      "y": 1138,
+      "width": 36,
+      "height": 18
+    }
+  },
+  {
+    "text": "2021",
+    "confidence": 89,
+    "bbox": {
+      "x": 444,
+      "y": 1138,
+      "width": 49,
+      "height": 18
+    }
+  },
+  {
+    "text": "Endorsements",
+    "confidence": 47,
+    "bbox": {
+      "x": 350,
+      "y": 1163,
+      "width": 92,
+      "height": 13
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 57,
+    "bbox": {
+      "x": 447,
+      "y": 1163,
+      "width": 4,
+      "height": 10
+    }
+  },
+  {
+    "text": "Mentions",
+    "confidence": 93,
+    "bbox": {
+      "x": 456,
+      "y": 1163,
+      "width": 59,
+      "height": 13
+    }
+  },
+  {
+    "text": "Spéciaies",
+    "confidence": 70,
+    "bbox": {
+      "x": 520,
+      "y": 1164,
+      "width": 62,
+      "height": 16
+    }
+  },
+  {
+    "text": "/",
+    "confidence": 91,
+    "bbox": {
+      "x": 586,
+      "y": 1164,
+      "width": 5,
+      "height": 12
+    }
+  },
+  {
+    "text": "Anotaciones",
+    "confidence": 82,
+    "bbox": {
+      "x": 595,
+      "y": 1164,
+      "width": 79,
+      "height": 14
+    }
+  },
+  {
+    "text": "SEE",
+    "confidence": 95,
+    "bbox": {
+      "x": 369,
+      "y": 1185,
+      "width": 41,
+      "height": 18
+    }
+  },
+  {
+    "text": "PAGE",
+    "confidence": 95,
+    "bbox": {
+      "x": 419,
+      "y": 1184,
+      "width": 59,
+      "height": 20
+    }
+  },
+  {
+    "text": "27",
+    "confidence": 96,
+    "bbox": {
+      "x": 485,
+      "y": 1186,
+      "width": 23,
+      "height": 18
+    }
+  },
+  {
+    "text": "PCUSAPARRISH<<ASHLEY<",
+    "confidence": 32,
+    "bbox": {
+      "x": 49,
+      "y": 1275,
+      "width": 900,
+      "height": 18
+    }
+  },
+  {
+    "text": "C6",
+    "confidence": 6,
+    "bbox": {
+      "x": 663,
+      "y": 1271,
+      "width": 45,
+      "height": 33
+    }
+  },
+  {
+    "text": "KECK",
+    "confidence": 13,
+    "bbox": {
+      "x": 718,
+      "y": 1271,
+      "width": 78,
+      "height": 33
+    }
+  },
+  {
+    "text": "KK",
+    "confidence": 22,
+    "bbox": {
+      "x": 897,
+      "y": 1271,
+      "width": 56,
+      "height": 33
+    }
+  },
+  {
+    "text": "B2E2329091ISUSABGCESIT9OFIS5SS8769840<K774852",
+    "confidence": 12,
+    "bbox": {
+      "x": 48,
+      "y": 1320,
+      "width": 931,
+      "height": 19
+    }
+  }
+]
