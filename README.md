@@ -1,6 +1,6 @@
-# 📁 Mise en place du projet TensorFlow Object Detection API
+## Mise en place du projet TensorFlow Object Detection API
 
-## 📌 1. Compiler les fichiers `.proto`
+### 1. Compiler les fichiers `.proto`
 
 ```bash
 cd models/research
@@ -12,7 +12,7 @@ S'assurer avant d'installer `protoc`. Regarder un tutoriel au besoin
 
 ---
 
-## 🧠 2. Définir le chemin Python (PYTHONPATH)
+### 2. Définir le chemin Python (PYTHONPATH)
 
 ```bash
 set PYTHONPATH=C:\projet\models\research;C:\projet\models\research\slim;%PYTHONPATH%
@@ -20,7 +20,7 @@ set PYTHONPATH=C:\projet\models\research;C:\projet\models\research\slim;%PYTHONP
 
 ---
 
-## 🚀 3. Lancer l'entraînement du modèle
+### 3. Lancer l'entraînement du modèle
 
 ```bash
 cd ../..
@@ -31,8 +31,6 @@ python model_main_tf2.py ^
   --alsologtostderr
 ```
 
-✅ **Remarques** :
-
 - Le fichier `pipeline.config` doit être bien configuré (labels, dataset, nombre de steps, chemin des images/annotations, etc.).
 - Pour monitorer l'entraînement avec TensorBoard (très intéressant) :
 
@@ -42,7 +40,7 @@ tensorboard --logdir=C:/projet/my_models/training
 
 ---
 
-## 📤 4. Exporter le modèle entraîné
+### 4. Exporter le modèle entraîné
 
 ```bash
 python C:/projet/models/research/object_detection/exporter_main_v2.py ^
