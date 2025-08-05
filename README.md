@@ -1,4 +1,6 @@
-## Mise en place du projet TensorFlow Object Detection API
+## Projet TensorFlow Object Detection API
+
+## Note à moi même au passage
 
 ### 1. Compiler les fichiers `.proto`
 
